@@ -18,6 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/disiz_sankha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="disiz_sankha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sankhasubhradas13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankhasubhradas13" height="30" width="40" /></a>
+<a href="https://fb.com/wrenaik13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wrenaik13" height="30" width="40" /></a>
 <a href="https://instagram.com/itzz_w_r_i_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzz_w_r_i_k" height="30" width="40" /></a>
 </p>
 

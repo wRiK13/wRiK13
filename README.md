@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/disiz_sankha" target="blank"><img src="https://img.shields.io/twitter/follow/disiz_sankha?logo=twitter&style=for-the-badge" alt="disiz_sankha" /></a> </p>
 
-- 🔭 I’m currently working on **OpenAI**
+- 🔭 I’m currently working on **Software AI Testing**
 
-- 🌱 I’m currently learning **Large Language Model**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **Database Management System, SQL, Python**
 
-- 📫 How to reach me **sankhasubhradas.4g@gmail.com**
+- 📫 How to reach me **sankhasubhra.das.official@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

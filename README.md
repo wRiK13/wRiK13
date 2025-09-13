@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Software AI Testing**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 💬 Ask me about **Database Management System, SQL, Python**
 
